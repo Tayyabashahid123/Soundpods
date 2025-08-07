@@ -1,4 +1,5 @@
-export default [
+
+const pads = [
     {
         id: 1,
         color: "#F18D8B",
@@ -39,4 +40,7 @@ export default [
         color: "#F289C1",
         on: true
     },   
-]
+];
+
+
+export default pads;

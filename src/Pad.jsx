@@ -1,7 +1,7 @@
-import {useState} from 'react'
+// import React from 'react';
 
 export default function Pad(props) {
-    // const [padMode,setpadMode]= useState(props.mode)
+    // const [padMode,setpadMode]= React.useState(props.mode)
     const Btnstyle = { backgroundColor: props.color};
 
     // function handleClick(){
