@@ -24,8 +24,8 @@ https://soundpods.netlify.app/
 
 ## 🔧 Tech Stack
 
-- **React** (CRA / Vite)
-- **CSS** for layout and effects (or Tailwind, if used)
+- **React** 
+- **CSS** for layout and effects
 - **JavaScript** for toggling UI state
 
 ---
